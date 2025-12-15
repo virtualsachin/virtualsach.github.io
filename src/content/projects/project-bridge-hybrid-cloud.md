@@ -1,4 +1,3 @@
-```
 ---
 title: "Zero IP Changes: Hybrid Cloud Migration for 500+ Workloads"
 date: 2018-09-15
