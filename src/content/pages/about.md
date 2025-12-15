@@ -111,4 +111,4 @@ I believe in continuous evolution. In 2023, I dedicated **100+ hours** to master
 
 I am currently driving value as an Associate Director, but I am open to discussing **Principal Architect** roles where I can leverage my 20 years of experience.
 
-**Contact:** [sachin@virtualsach.in](mailto:sachin@virtualsach.in) or [LinkedIn](https://www.linkedin.com/in/sachin-sharma-711/).
+**Contact:** [sachin@virtualsach.in](mailto:sachin@virtualsach.in) or [LinkedIn](https://www.linkedin.com/in/virtualsachin/).

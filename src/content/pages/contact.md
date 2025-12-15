@@ -19,6 +19,6 @@ While I am currently driving value as an Associate Director, I am open to discus
 ## Contact Information
 
 * **Email:** [sachin@virtualsach.in](mailto:sachin@virtualsach.in)
-* **LinkedIn:** [linkedin.com/in/sachin-sharma-711](https://www.linkedin.com/in/sachin-sharma-711/)
+* **LinkedIn:** [linkedin.com/in/virtualsachin](https://www.linkedin.com/in/virtualsachin/)
 * **Location:** New Delhi, India / Remote Global
 * **Timezone:** IST (UTC+05:30)
