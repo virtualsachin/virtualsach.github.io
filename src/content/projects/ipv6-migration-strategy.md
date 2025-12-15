@@ -1,5 +1,5 @@
 ---
-title: "Future-Proofing Finance: IPv6 Migration & ADC Strategy"
+title: "Connecting 5M+ Users: Seamless IPv6 Migration for Finance"
 date: 2015-11-15
 description: "Enabled 5M+ mobile users to access a major banking app via IPv6 without touching the legacy IPv4 backend, utilizing A10 Thunder ADCs and SLB-PT."
 summary: "Seamless IPv6 migration for a financial giant using NAT64/DNS64 and Application Layer Gateways."

@@ -1,5 +1,5 @@
 ---
-title: "Project Bridge: Hybrid Cloud SDDC on IBM SoftLayer"
+title: "Zero IP Changes: Hybrid Cloud Migration for 500+ Workloads"
 date: 2018-09-15
 description: "Migrated 500+ workloads including physical Oracle RAC clusters to the cloud without changing a single IP address, using a custom NSX-V and Arista HW-VTEP solution."
 summary: "Bridging physical and virtual worlds with Arista HW-VTEP and NSX-V."

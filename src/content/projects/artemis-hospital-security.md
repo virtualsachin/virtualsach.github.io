@@ -1,5 +1,5 @@
 ---
-title: "Mission Critical: Securing Artemis Hospital Digital Backbone"
+title: "Zero Data Breaches: Zone-Based Security Architecture"
 date: 2009-03-10
 description: "Designed a rigid Zone-Based Security Architecture using Cisco ASA, physically segmenting critical HIS/Biomedical networks from public Guest Wi-Fi."
 summary: "Zero Trust before it was cool: Securing a major hospital with Cisco ASA and Physical Segmentation."

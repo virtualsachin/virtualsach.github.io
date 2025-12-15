@@ -1,5 +1,5 @@
 ---
-title: "Automated Private Cloud: Zero-Touch NSX-T Deployment"
+title: "Cut Provisioning Time by 90%: Zero-Touch NSX-T Automation"
 date: 2021-04-10
 description: "Architected a fully automated private cloud for a Financial Services giant, reducing tenant provisioning time from 10 days to 4 hours using Ansible and NSX-T."
 summary: "Zero-Touch Provisioning pipeline for NSX-T using vRA and Ansible."

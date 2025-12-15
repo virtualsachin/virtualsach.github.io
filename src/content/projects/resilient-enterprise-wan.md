@@ -1,5 +1,5 @@
 ---
-title: "Resilient Enterprise WAN: Multi-Homed BGP Architecture"
+title: "99.9% Uptime: Automated BGP Failover for Enterprise WAN"
 date: 2011-08-22
 description: "Architected a 99.9% uptime failover solution for premium enterprise customers using Multi-Homed BGP, automated via Route Maps and BFD."
 summary: "Automated BGP Failover between Fiber and RF/WiMAX using Route Maps and BFD."
