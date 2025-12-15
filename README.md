@@ -1,69 +1,36 @@
-# Virtual Sachin - The Digital Twin
+# Virtual Sachin (v2.0)
 
-> "Complexity is the enemy of execution."
+> "We shape our tools, and thereafter our tools shape us."
 
-This is the source code for [virtualsach.github.io](https://virtualsach.github.io), a high-performance personal portfolio and digital garden built for a Modern Technocrat. It serves as a repository of "War Stories" from 20+ years of Infrastructure & Cloud Architecture.
+This is the source code for [virtualsach.in](https://virtualsach.in), the digital portfolio of **Sachin Kumar Sharma**, Principal Cloud & Infrastructure Architect.
 
-## 🚀 Technology Stack
+### 🏗️ Architecture
 
-Built for speed, scored **100/100** on Lighthouse, and designed with a "No-JavaScript-bloat" philosophy.
+This site is built as a **Digital Cathedral**—designed for speed, resilience, and clarity.
 
-* **Framework**: [Astro v5](https://astro.build) (Static Site Generation).
-* **Styling**: [Tailwind CSS v4](https://tailwindcss.com) + Custom Glassmorphism.
-* **Interactivity**: Vanilla TS + Astro View Transitions (Zero-Framework Architecture).
-* **Deployment**: GitHub Pages (via GitHub Actions).
+* **Framework:** Astro 4.0 (Static Site Generation)
+* **Styling:** Tailwind CSS (Glassmorphism / Deep Space Theme)
+* **Hosting:** GitHub Pages via Cloudflare DNS
+* **CI/CD:** GitHub Actions (Automated Build & Deploy)
 
-## 🎨 Design System: "The Technocrat"
+### ⚡ The "AI-Assisted" Workflow
 
-The site features a bespoke design system capable of standing out in a sea of generic portfolios.
+This project utilizes an **"AI-Augmented"** development workflow (also known as "Vibe Coding").
 
-* **Aesthetic**: Dark Mode, Glassmorphism, Cybernetic Gradients.
-* **Typography**: Inter (UI) + Fira Code (Technical Data).
-* **Visuals**:
-  * **Cybernetic Grid**: A subtle, animated canvas background.
-  * **View Transitions**: Native SPA-like navigation with cross-fades.
-  * **Interactive Timeline**: Vertical career history with scroll animations.
+* **Code Generation:** Cursor + Claude 3.5 Sonnet / Gemini 1.5 Pro
+* **Infrastructure Logic:** GitHub Copilot
+* **Content Governance:** Custom `.cursorrules` to enforce the "Modern Technocrat" editorial voice.
 
-## 🛠️ Key Features
+### 🛠️ Local Development
 
-### 1. Command Palette (`Cmd+K`)
+```bash
+# Install dependencies
+npm install
 
-A developer-first navigation modal. Press `Cmd+K` (Mac) or `Ctrl+K` (Windows) anywhere to:
-
-* Jump to Projects or Blogs.
-* Access external links (GitHub, LinkedIn).
-* Execute actions (Email).
-
-### 2. High-Readability Content Standard
-
-All content follows a strict editorial format designed for scannability:
-
-* **The 2-3-1 Rule**: Short paragraphs, 1 idea per block.
-* **Visual Anchors**: Bold concepts, clearly defined "Key Takeaways".
-* **War Stories**: Content is not generic tutorials; it is grounded in real-world outages and architecture battles.
-
-## 📂 Project Structure
-
-```text
-/
-├── .github/workflows  # CI/CD Pipeline
-├── src/
-│   ├── components/    # UI Building Blocks (CommandPalette, Timeline, etc.)
-│   ├── content/       # MDX Content (Blog & Projects)
-│   ├── layouts/       # Global Layouts (Base HTML, Head)
-│   ├── pages/         # Astro Routing
-│   └── styles/        # Global Tailwind CSS
-└── astro.config.mjs   # Configuration
+# Start the dev server
+npm run dev
 ```
 
-## 🧞 Commands
+### 📄 License
 
-| Command | Action |
-| :--- | :--- |
-| `npm run dev` | Start local development server |
-| `npm run build` | Build for production |
-| `npm run preview` | Preview the production build |
-
-## 📄 License
-
-MIT License. Feel free to fork and adapt for your own portfolio.
+© 2025 Sachin Kumar Sharma. All rights reserved.
