@@ -28,60 +28,60 @@ I don't just design systems; I build **digital cathedrals**—structures that ar
 
 ## Technical Radar
 
-<div class="grid md:grid-cols-2 gap-6 not-prose mb-12">
-  <div class="glass p-6 rounded-xl border border-blue-500/20">
-    <h3 class="text-white text-lg font-bold mb-4 flex items-center gap-2">
-      <span class="text-blue-400">🎯</span> Strategic
+<div class="grid lg:grid-cols-2 gap-8 not-prose mb-12">
+  <div class="glass p-8 rounded-2xl border border-blue-500/20 bg-slate-900/50 hover:bg-slate-900/80 transition-all duration-300">
+    <h3 class="text-white text-xl font-bold mb-6 flex items-center gap-3">
+      <span class="text-blue-400 p-2 bg-blue-500/10 rounded-lg">🎯</span> Strategic
     </h3>
-    <ul class="space-y-3 text-sm text-slate-300">
-      <li class="flex items-start gap-2">
-        <span class="text-blue-400 mt-1">▸</span>
-        <div>
-          <strong class="text-white block">Cloud Architecture</strong>
-          <span class="text-slate-500 text-xs">Azure Enterprise Scale, AWS Landing Zones, IBM SoftLayer</span>
+    <ul class="space-y-4 text-sm text-slate-300">
+      <li class="flex items-start gap-3 group">
+        <span class="text-blue-400 mt-1.5 flex-shrink-0 group-hover:text-blue-300 transition-colors">▸</span>
+        <div class="min-w-0">
+          <strong class="text-slate-100 block text-[15px] mb-1">Cloud Architecture</strong>
+          <span class="text-slate-400 text-xs leading-relaxed block">Azure Enterprise Scale, AWS Landing Zones, IBM SoftLayer</span>
         </div>
       </li>
-      <li class="flex items-start gap-2">
-        <span class="text-blue-400 mt-1">▸</span>
-        <div>
-          <strong class="text-white block">Network Virtualization</strong>
-          <span class="text-slate-500 text-xs">Deep expertise in VMware NSX-T, NSX-V, and SDDC</span>
+      <li class="flex items-start gap-3 group">
+        <span class="text-blue-400 mt-1.5 flex-shrink-0 group-hover:text-blue-300 transition-colors">▸</span>
+        <div class="min-w-0">
+          <strong class="text-slate-100 block text-[15px] mb-1">Network Virtualization</strong>
+          <span class="text-slate-400 text-xs leading-relaxed block">Deep expertise in VMware NSX-T, NSX-V, and SDDC</span>
         </div>
       </li>
-       <li class="flex items-start gap-2">
-        <span class="text-blue-400 mt-1">▸</span>
-        <div>
-          <strong class="text-white block">Zero Trust Security</strong>
-          <span class="text-slate-500 text-xs">Identity-First Architecture, Micro-segmentation</span>
+       <li class="flex items-start gap-3 group">
+        <span class="text-blue-400 mt-1.5 flex-shrink-0 group-hover:text-blue-300 transition-colors">▸</span>
+        <div class="min-w-0">
+          <strong class="text-slate-100 block text-[15px] mb-1">Zero Trust Security</strong>
+          <span class="text-slate-400 text-xs leading-relaxed block">Identity-First Architecture, Micro-segmentation</span>
         </div>
       </li>
     </ul>
   </div>
 
-  <div class="glass p-6 rounded-xl border border-purple-500/20">
-    <h3 class="text-white text-lg font-bold mb-4 flex items-center gap-2">
-      <span class="text-purple-400">⚔️</span> Battle-Tested
+  <div class="glass p-8 rounded-2xl border border-purple-500/20 bg-slate-900/50 hover:bg-slate-900/80 transition-all duration-300">
+    <h3 class="text-white text-xl font-bold mb-6 flex items-center gap-3">
+      <span class="text-purple-400 p-2 bg-purple-500/10 rounded-lg">⚔️</span> Battle-Tested
     </h3>
-    <ul class="space-y-3 text-sm text-slate-300">
-      <li class="flex items-start gap-2">
-        <span class="text-purple-400 mt-1">▸</span>
-        <div>
-          <strong class="text-white block">Infrastructure Code</strong>
-          <span class="text-slate-500 text-xs">Terraform, Ansible Tower, Python (Netmiko/Paramiko)</span>
+    <ul class="space-y-4 text-sm text-slate-300">
+      <li class="flex items-start gap-3 group">
+        <span class="text-purple-400 mt-1.5 flex-shrink-0 group-hover:text-purple-300 transition-colors">▸</span>
+        <div class="min-w-0">
+          <strong class="text-slate-100 block text-[15px] mb-1">Infrastructure Code</strong>
+          <span class="text-slate-400 text-xs leading-relaxed block">Terraform, Ansible Tower, Python (Netmiko/Paramiko)</span>
         </div>
       </li>
-      <li class="flex items-start gap-2">
-        <span class="text-purple-400 mt-1">▸</span>
-        <div>
-          <strong class="text-white block">Core Networking</strong>
-          <span class="text-slate-500 text-xs">BGP Traffic Engineering, OSPF, MPLS, HW-VTEP</span>
+      <li class="flex items-start gap-3 group">
+        <span class="text-purple-400 mt-1.5 flex-shrink-0 group-hover:text-purple-300 transition-colors">▸</span>
+        <div class="min-w-0">
+          <strong class="text-slate-100 block text-[15px] mb-1">Core Networking</strong>
+          <span class="text-slate-400 text-xs leading-relaxed block">BGP Traffic Engineering, OSPF, MPLS, HW-VTEP</span>
         </div>
       </li>
-      <li class="flex items-start gap-2">
-        <span class="text-purple-400 mt-1">▸</span>
-        <div>
-          <strong class="text-white block">Security Appliances</strong>
-          <span class="text-slate-500 text-xs">Palo Alto, Checkpoint, F5 LTM/GTM, Cisco ASA/Firepower</span>
+      <li class="flex items-start gap-3 group">
+        <span class="text-purple-400 mt-1.5 flex-shrink-0 group-hover:text-purple-300 transition-colors">▸</span>
+        <div class="min-w-0">
+          <strong class="text-slate-100 block text-[15px] mb-1">Security Appliances</strong>
+          <span class="text-slate-400 text-xs leading-relaxed block">Palo Alto, Checkpoint, F5 LTM/GTM, Cisco ASA/Firepower</span>
         </div>
       </li>
     </ul>
