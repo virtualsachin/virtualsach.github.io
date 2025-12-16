@@ -67,7 +67,7 @@ module "spokes" {
 
 We realized that "Security" and "Finance" (Tagging) could not be afterthoughts. They had to be part of the assembly line.
 
-<div class="mermaid">
+<pre class="mermaid">
 graph TD
     subgraph Factory_Inputs
         YAML[config.yaml]
@@ -98,11 +98,11 @@ graph TD
     classDef input fill:#e1f5fe,stroke:#01579b,stroke-width:2px;
     classDef process fill:#fff3e0,stroke:#e65100,stroke-width:2px;
     classDef azure fill:#e8eaf6,stroke:#1a237e,stroke-width:2px;
-    
+
     class YAML,TF input;
     class Valid,Sec,Fin process;
     class Hub,Spoke,NVA azure;
-</div>
+</pre>
 
 ## 4. The "DevSecFinOps" Trinity
 
